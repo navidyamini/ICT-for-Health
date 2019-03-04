@@ -1,0 +1,25 @@
+ckd,notckd.
+age: continuous.
+bp: continuous.
+sg: 1.005,1.010,1.015,1.020,1.025.
+al: 0,1,2,3,4,5.
+su: 0,1,2,3,4,5.
+rbc: normal,abnormal.
+pc: normal,abnormal.
+pcc: present,notpresent.
+ba: present,notpresent.
+bgr: continuous.
+bu: continuous.
+sc: continuous.
+sod: continuous.
+pot: continuous.
+hemo: continuous.
+pcv: continuous.
+wbcc: continuous.
+rbcc: continuous.
+htn: yes,no.
+dm: yes,no.
+cad: yes,no.
+appet: good,poor.
+pe: yes,no.
+ane: yes,no.
